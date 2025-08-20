@@ -4,6 +4,16 @@ I’m a backend developer and startup strategist, driven by a deep curiosity to 
 
 I’m here to **create tools**, **craft systems**, and **connect ideas** — all with code.
 
+[![Website](https://img.shields.io/badge/Website-aramin.co-informational?style=flat&logo=google-chrome)](https://aramin.co)
+[![Website](https://img.shields.io/badge/Website-AliasgharRamin.ir-informational?style=flat&logo=google-chrome)](https://aliasgharramin.ir)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-aliasgharramin-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/aliasgharramin)
+[![PHP](https://img.shields.io/badge/PHP-Expert-informational?style=flat&logo=php)](https://www.php.net/)
+[![Laravel](https://img.shields.io/badge/Laravel-Lover-ff2d20?style=flat&logo=laravel)](https://laravel.com/)
+[![Node.js](https://img.shields.io/badge/Node.js-Dev-339933?style=flat&logo=node.js)](https://nodejs.org/)
+[![MIT Certified](https://img.shields.io/badge/Certified-MIT-informational?style=flat&logo=mit)](https://mit.edu)
+[![Google Digital Garage](https://img.shields.io/badge/Certified-Google-blue?style=flat&logo=google)]
+[![Sharif University](https://img.shields.io/badge/Certified-Sharif-informational?style=flat)]
+
 ---
 
 ## 💻 What I Do
