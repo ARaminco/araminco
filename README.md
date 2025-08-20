@@ -58,7 +58,7 @@ I’m always open to:
 - 📈 Contributing to open-source or growth-focused tools
 - 💬 Chatting about tech, startups, and future-driven ideas
 
-📧 Reach out: [ali@aramin.co](mailto:ali@aramin.co)  
+📧 Reach out: [aa@aramin.co](mailto:aa@aramin.co)  
 🔗 Let’s connect on [LinkedIn](https://www.linkedin.com/in/aliasgharramin)
 
 ---
